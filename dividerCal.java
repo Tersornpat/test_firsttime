@@ -1,7 +1,7 @@
 public class dividerCal {
     private String ans = "";
     private int divider;
-    public int[] array = new int[20];
+    public int[] array = new int[30];
 
     public dividerCal(int divider){
         this.divider = divider;
